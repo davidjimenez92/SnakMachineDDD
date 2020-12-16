@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PRHy/ud3bjC2PLwk8jjhqwk9KHJQNhc3HBrMKWPzDsujoDEUjQD8uORMCQzHQIAjaFzXJNRGdVwLb77G9FU6kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djime\\OneDrive\\Escritorio\\SnakMachineDDD\\SnackMachineDDD\\SnackMachineDDD.Logic\\SnackMachineDDD.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djime\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
